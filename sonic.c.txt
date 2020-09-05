@@ -2,4 +2,4 @@ Zero,BeyondInfinity,https://khuxkm.tilde.team/discord_screenshots/infinite.png
 Gadget,GWolf,https://khuxkm.tilde.team/discord_screenshots/gadget.png
 Shadow,AllOfMe,https://khuxkm.tilde.team/discord_screenshots/shadow.png
 Silver,AbsolutionDreamer,https://khuxkm.tilde.team/discord_screenshots/silver.png
-
+Narrator,Clyde,https://khuxkm.tilde.team/discord_screenshots/clyde.png
