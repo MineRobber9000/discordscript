@@ -22,6 +22,7 @@ messages = dsp.parse(args.script)
 out = dict()
 out["messages"]=messages
 out["characters"]=chars
+if args.time: out["time"]=args.time
 
 with open("out.json","w") as f:
 	json.dump(out,f)
