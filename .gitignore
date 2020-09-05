@@ -143,3 +143,6 @@ dmypy.json
 # ignore scripts other than the test script
 *.ds.txt
 !test.ds.txt
+
+# ignore out.json
+out.json
