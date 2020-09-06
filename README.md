@@ -9,3 +9,8 @@ Over the next week, I make more of these memes. The straw that broke the camel's
 ...but it would be 5 more days until I actually sat down and wrote it. After some editing, I ended up with this, a Discord meme generator. Write a script to the specifications, run it through `tojson.py`, and then through `compilejson.py`, and you get out a perfectly aligned, perfectly spaced Discord meme. No more spending 2 hours in Photopea over a silly JoJo joke, just type, run, and enjoy!
 
 Information on the script and character info formats can be found in `SCRIPT_FORMAT.md` and `CHARINFO_FORMAT.md` respectively.
+
+Requires [Selenium WebDriver Python bindings][], and also [ChromeDriver][] (and obviously Google Chrome/Chromium itself).
+
+[Selenium WebDriver Python bindings]: https://pypi.org/project/selenium/
+[ChromeDriver]: https://chromedriver.chromium.org/
